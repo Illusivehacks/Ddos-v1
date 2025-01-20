@@ -1,1 +1,6 @@
+requests
+Pillow
+pygame
+playsound
+tkinter
 
