@@ -78,8 +78,6 @@ This project is for educational use only. Please ensure that you have proper aut
 MIT License - Free to use and modify.
 Made with love by IllusiveHacks ❤️
 
-````Let me know if you'd like to adjust any part of this!````
-
 
 
 
